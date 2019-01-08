@@ -1,5 +1,6 @@
 /.data
 /.env
+/.vscode
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.*.local

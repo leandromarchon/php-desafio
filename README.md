@@ -12,6 +12,4 @@ O sistema que será desenvolvido, deverá seguir as seguintes regras:
 - Cadastro de Secretarias
 - Cálculo de salário
 - Permissões de acesso
-- Gerar relatórios
--- Excel
--- PDF
+- Gerar relatórios (Excel, PDF)

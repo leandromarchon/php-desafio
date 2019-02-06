@@ -8,6 +8,7 @@ Desafio proposto para consolidar os conhecimentos obtidos nas seguintes tecnolog
 - Doctrine
 
 O sistema que será desenvolvido, deverá seguir as seguintes regras:
+- Login de acesso
 - Cadastro de FUncionários
 - Cadastro de Secretarias
 - Cálculo de salário
